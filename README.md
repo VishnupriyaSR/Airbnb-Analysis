@@ -22,3 +22,12 @@ The objectives are to:
 
 8.Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
 
+Libraries/Modules needed for the project!
+
+Plotly, Seaborn - To plot and visualize the data
+
+Pandas - To Clean and maipulate the data
+
+Pymongo - To store and retrieve the data by connecting with MongoDB Atlas
+
+Streamlit - To Create Graphical user Interface
